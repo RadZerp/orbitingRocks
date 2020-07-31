@@ -7,5 +7,5 @@
 		<li>1.1</li>
 	</supportedVersions>
 	<packageId>RadZerp.orbit</packageId>
-	<description>Adds a moon.</description>
+	<description>Adds orbiting rocks.</description>
 </ModMetaData>

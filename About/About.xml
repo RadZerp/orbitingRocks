@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ModMetaData>
-	<name>Orbiting rocks</name>
+	<name>Moon Biome</name>
 	<author>RadZerp</author>
 	<supportedVersions>
 		<li>1.0</li>
 		<li>1.1</li>
 	</supportedVersions>
-	<packageId>RadZerp.orbit</packageId>
-	<description>Adds orbiting rocks.</description>
+	<packageId>RadZerp.moon</packageId>
+	<description>Adds a moon biome.</description>
 </ModMetaData>

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "orbitingRocks", "orbitingRocks\orbitingRocks.csproj", "{3D36961A-5B0E-4261-A8BB-154502524767}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "biomeMoon", "biomeMoon\biomeMoon.csproj", "{062E70EF-58F8-4A80-A6AC-12FD0A9B5968}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3D36961A-5B0E-4261-A8BB-154502524767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3D36961A-5B0E-4261-A8BB-154502524767}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3D36961A-5B0E-4261-A8BB-154502524767}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3D36961A-5B0E-4261-A8BB-154502524767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062E70EF-58F8-4A80-A6AC-12FD0A9B5968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062E70EF-58F8-4A80-A6AC-12FD0A9B5968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062E70EF-58F8-4A80-A6AC-12FD0A9B5968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062E70EF-58F8-4A80-A6AC-12FD0A9B5968}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2A51950A-4F4C-4070-86E6-9E16790276FC}
+		SolutionGuid = {5D0621B3-4E47-4B42-8E2F-CC66C7E57038}
 	EndGlobalSection
 EndGlobal
